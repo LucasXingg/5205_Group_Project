@@ -1,0 +1,5 @@
+FN = Factory New = 崭新出厂
+MW = Minimal Wear = 略有磨损
+FT = Field-Tested = 久经沙场
+WW = Well-Worn = 破损不堪
+BS = Battle-Scarred = 战痕累累
